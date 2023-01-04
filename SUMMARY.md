@@ -22,5 +22,5 @@
 
 ## Info
 
-* [FAQ](info/faq.md)
 * [Thank you](info/thank-you.md)
+* [FAQ](info/faq.md)
