@@ -14,8 +14,8 @@ Here is WHM/cPanel what look like&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>This is the screenshot of the our cPanel auto provision plugin.</p></figcaption></figure>
 
-{% content-ref url="cpanel-whm.md" %}
-[cpanel-whm.md](cpanel-whm.md)
+{% content-ref url="cpanel.md" %}
+[cpanel.md](cpanel.md)
 {% endcontent-ref %}
 
 
