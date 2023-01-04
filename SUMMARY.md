@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WHITE LABEL LICENSE](README.md)
+* [WHITE LABEL](README.md)
 
 ## Requirements
 
