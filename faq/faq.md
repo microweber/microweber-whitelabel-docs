@@ -28,3 +28,35 @@ We are working on improving Microweber on a daily basses. Releasing a new premiu
 
 </details>
 
+<details>
+
+<summary>What kind of support you are offering ?</summary>
+
+To offer you a quality and fast support is one of the important things we are trying to provide to our customers. Our support is organized by Ticket system in general. For web studios that are needed more faster way to support we offering a direct skype group. And for a companies using our Enterprise license we offering all of it plus, Jira software management board. The direct support we offer is in an additional price from the licenses.
+
+</details>
+
+<details>
+
+<summary>Do you offer a custom design and development ?</summary>
+
+Yes, we can offer you custom design and development for projects and websites which are using Microweber and Laravel. We also can offer you a part of Microweber such as WYSYISWYG. We can also offering writing Plesk and cPanel plugins and WHMCS modules.
+
+</details>
+
+<details>
+
+<summary>What is the difference between White Label and Re-seller Program ?</summary>
+
+The differed between White Label License and our Re-seller program is that in the reseller program you are using our infrastructure like dedicate and VPS servers of Microweber, while when you are using the White Label License, you should have your own infrastructure where you are the owner of the users data and you are responsible for it.
+
+</details>
+
+<details>
+
+<summary>Do you have some training courses ?</summary>
+
+Still we don't have a much videos and tutorials of how the end user can use Microweber. We know that this is important and we will have a good library of tutorials very soon. For developer teams, web design companies and support teams we can offer an online training courses. Contact us for more information.
+
+</details>
+
