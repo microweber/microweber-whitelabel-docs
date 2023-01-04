@@ -10,7 +10,7 @@
   * [cPanel](requirements/hosting-panel/cpanel/README.md)
     * [Settings](requirements/hosting-panel/cpanel/settings.md)
     * [Whitelabel](requirements/hosting-panel/cpanel/whitelabel.md)
-    * [Add Plans](requirements/hosting-panel/cpanel/add-plans.md)
+    * [Add Hosting Plans](requirements/hosting-panel/cpanel/add-hosting-plans.md)
   * [Plesk](requirements/hosting-panel/plesk.md)
     * [Settings](requirements/hosting-panel/plesk/settings.md)
     * [Whitelabel](requirements/hosting-panel/plesk/whitelabel.md)
