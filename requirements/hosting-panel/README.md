@@ -4,7 +4,7 @@ description: With hosting panel you can manage all websites.
 
 # Hosting Panel
 
-You can choose a hosting panel according to what you like.
+You can choose b a hosting panel according to what you like.
 
 We have an automated plugin that allows the installation of microweber sites easily.
 
