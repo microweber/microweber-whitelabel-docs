@@ -7,5 +7,5 @@
 * [License](requirements/license.md)
 * [Server](requirements/server.md)
 * [Hosting Panel](requirements/hosting-panel/README.md)
-  * [cPanel / WHM](requirements/hosting-panel/cpanel.md)
+  * [cPanel](requirements/hosting-panel/cpanel.md)
   * [Plesk](requirements/hosting-panel/plesk.md)

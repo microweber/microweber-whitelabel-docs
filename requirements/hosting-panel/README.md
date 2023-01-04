@@ -10,7 +10,7 @@ We have an automated plugin that allows the installation of microweber sites eas
 
 
 
-Here is WHM/cPanel what look like&#x20;
+Here is cPanel what look like&#x20;
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>This is the screenshot of the our cPanel auto provision plugin.</p></figcaption></figure>
 
