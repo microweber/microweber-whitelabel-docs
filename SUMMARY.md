@@ -22,6 +22,8 @@
 * [WHMCS](whmcs.md)
   * [Add servers](whmcs/add-servers.md)
   * [Hosting Plans](whmcs/hosting-plans.md)
+* [Test your service](test-your-service.md)
+* [Done!](done.md)
 
 ## Info
 
