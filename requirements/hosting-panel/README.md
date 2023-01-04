@@ -12,9 +12,16 @@ We have an automated plugin that allows the installation of microweber sites eas
 
 Here is what look like cPanel
 
-![](../../.gitbook/assets/image.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Here is what look like Plesk
 
+
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-04 at 12.02.32 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Select the hosting panel to continue process:
