@@ -8,11 +8,13 @@
 * [Server](requirements/server.md)
 * [Hosting Panel](requirements/hosting-panel/README.md)
   * [cPanel](requirements/hosting-panel/cpanel/README.md)
+    * [Settings](requirements/hosting-panel/cpanel/settings.md)
     * [Whitelabel](requirements/hosting-panel/cpanel/whitelabel.md)
     * [Add Plans](requirements/hosting-panel/cpanel/add-plans.md)
   * [Plesk](requirements/hosting-panel/plesk.md)
+    * [Settings](requirements/hosting-panel/plesk/settings.md)
     * [Whitelabel](requirements/hosting-panel/plesk/whitelabel.md)
-    * [Add Plans](requirements/hosting-panel/plesk/add-plans.md)
+    * [Add Hosting Plans](requirements/hosting-panel/plesk/add-hosting-plans.md)
 
 ***
 
