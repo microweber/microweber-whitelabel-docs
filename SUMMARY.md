@@ -9,3 +9,7 @@
 * [Hosting Panel](requirements/hosting-panel/README.md)
   * [cPanel](requirements/hosting-panel/cpanel.md)
   * [Plesk](requirements/hosting-panel/plesk.md)
+
+***
+
+* [WHMCS](whmcs.md)
