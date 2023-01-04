@@ -4,7 +4,7 @@ description: Make your own website builder brand with Microweber White Label!
 
 # WHITE LABEL
 
-<figure><img src="https://microweber.com/userfiles/templates/microweber_com/home/liveedit.mp4" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/liveedit-min.gif" alt=""><figcaption></figcaption></figure>
 
 
 

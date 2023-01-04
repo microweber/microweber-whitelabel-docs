@@ -12,6 +12,6 @@
 
 ***
 
-* [WHMCS](whmcs/README.md)
+* [WHMCS](whmcs.md)
   * [Add servers](whmcs/add-servers.md)
   * [Hosting Plans](whmcs/hosting-plans.md)
