@@ -20,6 +20,8 @@
   * [Add servers](whmcs/add-servers.md)
   * [Hosting Plans](whmcs/hosting-plans.md)
 
-## FAQ
+## Help
 
-* [FAQ](faq/faq.md)
+***
+
+* [FAQ](faq.md)
