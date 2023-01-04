@@ -19,3 +19,7 @@
 * [WHMCS](whmcs.md)
   * [Add servers](whmcs/add-servers.md)
   * [Hosting Plans](whmcs/hosting-plans.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
