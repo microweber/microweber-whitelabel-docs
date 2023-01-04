@@ -24,8 +24,8 @@ Here is Plesk what look like&#x20;
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-01-04 at 12.02.32 (1).png" alt=""><figcaption><p>This is the screenshot of the our Plesk auto provision plugin.</p></figcaption></figure>
 
-{% content-ref url="plesk.md" %}
-[plesk.md](plesk.md)
+{% content-ref url="plesk/" %}
+[plesk](plesk/)
 {% endcontent-ref %}
 
 
